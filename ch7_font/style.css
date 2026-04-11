@@ -1,0 +1,10 @@
+p {
+/* font-size: 50px;
+font-family: cursive;
+font-style: italic;
+font-variant: small-caps; */
+/* font-weight: bold; */
+font: italic small-caps bold 50px/1.5 cursive;
+
+
+}
