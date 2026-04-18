@@ -1,0 +1,20 @@
+div {
+    position: static;
+border-style: solid;
+border-width: 10px;
+border-color: red;
+border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 5px;
+}
+.the_relative_box {
+    position: relative;
+left: 100px;
+
+}
+.the_absolute_box {
+    position: absolute;
+    top: 0px;
+    left:   0px;
+    
